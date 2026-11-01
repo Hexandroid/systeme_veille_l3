@@ -1,0 +1,5 @@
+streamlit
+pandas
+python-dotenv
+google-genai
+# sqlite3 est inclus nativement dans la bibliothèque standard Python (pas d'installation pip requise)

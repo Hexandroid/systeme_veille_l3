@@ -1,0 +1,25 @@
+# Base de données SQLite et rapports locaux générés
+*.db
+*.sqlite
+*.sqlite3
+data/dernier_rapport.json
+
+# Variables d'environnement et secrets
+.env
+
+# Environnement virtuel Python
+.venv/
+venv/
+env/
+
+# Fichiers compilés et cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Fichiers système / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
